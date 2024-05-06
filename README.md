@@ -280,7 +280,7 @@
 
 ```JSON
 {
-  "task": "String" (required),
+  "type": "String" (required),
   "thread": "ObjectId(Thread)" (required),
 }
 ```
@@ -291,7 +291,7 @@
 
 ```JSON
 {
-  "task": "add",
+  "type": "add",
   "thread": "66372ee9ddc309fdfffa1666",
 }
 ```
@@ -313,7 +313,7 @@
 
 ```JSON
 {
-  "task": "String" (required),
+  "type": "String" (required),
   "thread": "ObjectId(Thread)" (required),
 }
 ```
@@ -324,7 +324,7 @@
 
 ```JSON
 {
-  "task": "remove",
+  "type": "remove",
   "thread": "66372ee9ddc309fdfffa1666",
 }
 ```
