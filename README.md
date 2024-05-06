@@ -37,7 +37,6 @@
   "avatar_url": "cdn.example.com/img/1.jpg",
   "bookmarks": [
     "663734b04bebd3fa7b61d0dd",
-    "663735acf6791b88e7f5ca98",
   ],
 }
 ```
