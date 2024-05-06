@@ -28,14 +28,14 @@
 
 ```JSON
 {
-  _id: "66372c69cc86e6b1c94167a7",
-  _v: 0,
-  email: "haikal@mail.com",
-  password: "haikal123",
-  user_name: "haikalgakbar",
-  display_name: "haikalgakbar",
-  avatar_url: "cdn.example.com/img/1.jpg",
-  bookmarks: [
+  "_id": "66372c69cc86e6b1c94167a7",
+  "_v": 0,
+  "email": "haikal@mail.com",
+  "password": "haikal123",
+  "user_name": "haikalgakbar",
+  "display_name": "haikalgakbar",
+  "avatar_url": "cdn.example.com/img/1.jpg",
+  "bookmarks": [
     "663734b04bebd3fa7b61d0dd",
     "663735acf6791b88e7f5ca98",
   ],
@@ -59,17 +59,17 @@
 
 ```JSON
 {
-  _id: "663734b04bebd3fa7b61d0dd",
-  __v: 0,
-  sender: "66372c69cc86e6b1c94167a7",
-  title: "Ngeri! Lorem Ipsum Sit Dolor Amet",
-  content: "Lorem ipsum sit dolor amet...",
-  img: "cdn.example.com/thread/img/1.jpg",
-  comments: [
+  "_id": "663734b04bebd3fa7b61d0dd",
+  "__v": 0,
+  "sender": "66372c69cc86e6b1c94167a7",
+  "title": "Ngeri! Lorem Ipsum Sit Dolor Amet",
+  "content": "Lorem ipsum sit dolor amet...",
+  "img": "cdn.example.com/thread/img/1.jpg",
+  "comments": [
     {
-      _id: "66373770d61386f174ef3d0a",
-      user: "66372d1bde7c834bb15f809b",
-      comment: "Lorem ipsum sit dolor amet",
+      "_id": "66373770d61386f174ef3d0a",
+      "user": "66372d1bde7c834bb15f809b",
+      "comment": "Lorem ipsum sit dolor amet",
     },
   ],
 }
