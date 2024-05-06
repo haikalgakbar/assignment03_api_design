@@ -29,7 +29,7 @@
 ```JSON
 {
   "_id": "66372c69cc86e6b1c94167a7",
-  "_v": 0,
+  "__v": 0,
   "email": "haikal@mail.com",
   "password": "haikal123",
   "user_name": "haikalgakbar",
